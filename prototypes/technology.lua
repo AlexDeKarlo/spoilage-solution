@@ -10,9 +10,37 @@ data:extend({
         type = "unlock-recipe",
         recipe = "conservate-yumako"
       },
-	        {
+	  {
         type = "unlock-recipe",
         recipe = "deconservate-yumako"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "conservate-jellynut"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "deconservate-jellynut"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "conservate-bioflux"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "deconservate-bioflux"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "conservate-agricultural-science-pack"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "deconservate-agricultural-science-pack"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "produce_fluid-preservative"
       },
     },
     prerequisites = {"biochamber"},
