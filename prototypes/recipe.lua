@@ -186,7 +186,14 @@ data:extend({
   {
     {type="fluid", name="fluid-preservative", amount=100},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+      crafting_machine_tint =
+    {
+      primary = {r = 1.000, g = 0.642, b = 0.261, a = 1.000}, -- #ffa342ff
+      secondary = {r = 1.000, g = 0.722, b = 0.376, a = 1.000}, -- #ffb85fff
+      tertiary = {r = 0.854, g = 0.659, b = 0.576, a = 1.000}, -- #d9a892ff
+      quaternary = {r = 1.000, g = 0.494, b = 0.271, a = 1.000}, -- #ff7e45ff
+    }
 },
 
 
