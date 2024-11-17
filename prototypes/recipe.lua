@@ -218,7 +218,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__spoilage-solution__/graphics/icons/canned-bioflux.png",
+  icon = "__spoilage-solution__/graphics/icons/frozen-yumako-processing.png",
   icon_size = 64,
   ingredients =
   {	
@@ -239,7 +239,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__spoilage-solution__/graphics/icons/canned-bioflux.png",
+  icon = "__spoilage-solution__/graphics/icons/heating-yumako-processing.png",
   icon_size = 64,
   ingredients =
   {
@@ -262,7 +262,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__spoilage-solution__/graphics/icons/canned-bioflux.png",
+  icon = "__spoilage-solution__/graphics/icons/frozen-jellynut-processing.png",
   icon_size = 64,
   ingredients =
   {	
@@ -283,7 +283,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__spoilage-solution__/graphics/icons/canned-bioflux.png",
+  icon = "__spoilage-solution__/graphics/icons/heating-jellynut-processing.png",
   icon_size = 64,
   ingredients =
   {
@@ -307,7 +307,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__spoilage-solution__/graphics/icons/canned-bioflux.png",
+  icon = "__spoilage-solution__/graphics/icons/frozen-bioflux-processing.png",
   icon_size = 64,
   ingredients =
   {	
@@ -328,7 +328,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__spoilage-solution__/graphics/icons/canned-bioflux.png",
+  icon = "__spoilage-solution__/graphics/icons/heating-bioflux-processing.png",
   icon_size = 64,
   ingredients =
   {
@@ -394,7 +394,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__spoilage-solution__/graphics/icons/canned-bioflux.png",
+  icon = "__spoilage-solution__/graphics/icons/frozen-bitter-egg-processing.png",
   icon_size = 64,
   ingredients =
   {	
@@ -416,7 +416,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__spoilage-solution__/graphics/icons/canned-bioflux.png",
+  icon = "__spoilage-solution__/graphics/icons/heating-bitter-egg-processing.png",
   icon_size = 64,
   ingredients =
   {
@@ -440,7 +440,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__spoilage-solution__/graphics/icons/canned-yumako.png",
+  icon = "__spoilage-solution__/graphics/icons/frozen-pentapod-egg-processing.png",
   icon_size = 64,
   ingredients =
   {	
@@ -462,7 +462,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__spoilage-solution__/graphics/icons/canned-bioflux.png",
+  icon = "__spoilage-solution__/graphics/icons/heating-pentapod-egg-processing.png",
   icon_size = 64,
   ingredients =
   {
