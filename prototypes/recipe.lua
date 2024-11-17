@@ -350,7 +350,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__spoilage-solution__/graphics/icons/canned-bioflux.png",
+  icon = "__spoilage-solution__/graphics/icons/frozen-agricultural-science-pack-processing.png",
   icon_size = 64,
   ingredients =
   {	
@@ -371,7 +371,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__spoilage-solution__/graphics/icons/canned-bioflux.png",
+  icon = "__spoilage-solution__/graphics/icons/heating-agricultural-science-pack-processing.png",
   icon_size = 64,
   ingredients =
   {

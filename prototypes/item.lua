@@ -72,7 +72,7 @@ data:extend({
 {
   type = "item",
   name = "frozen-agricultural-science-pack",
-  icon = "__spoilage-solution__/graphics/icons/canned-agricultural-science-pack.png",
+  icon = "__spoilage-solution__/graphics/icons/frozen-agricultural-science-pack.png",
   icon_size = 64,
   stack_size = 100,
   spoil_ticks = 60 * 10000 * minute,
