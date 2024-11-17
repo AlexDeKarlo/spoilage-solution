@@ -110,6 +110,10 @@ data:extend({
 	  {
         type = "unlock-recipe",
         recipe = "unfreeze-pentapod-egg"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "produce_canning_fluid"
       },	  
     },
     prerequisites = {"cryogenic-science-pack"},
