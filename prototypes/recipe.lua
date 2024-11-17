@@ -10,7 +10,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 2.5,
-  icon = "__canning-and-freezing__/graphics/icons/canned-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-yumako-processing.png",
   icon_size = 64,
   ingredients =
   {	
@@ -31,7 +31,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 2.5,
-  icon = "__canning-and-freezing__/graphics/icons/deconservate-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/uncanned-yumako-processing.png",
   icon_size = 64,
   ingredients =
   {
@@ -54,7 +54,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 2.5,
-  icon = "__canning-and-freezing__/graphics/icons/canned-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-jellynut-processing.png",
   icon_size = 64,
   ingredients =
   {	
@@ -75,7 +75,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 2.5,
-  icon = "__canning-and-freezing__/graphics/icons/deconservate-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/uncanned-jellynut-processing.png",
   icon_size = 64,
   ingredients =
   {
@@ -98,7 +98,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 5,
-  icon = "__canning-and-freezing__/graphics/icons/canned-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-bioflux-processing.png",
   icon_size = 64,
   ingredients =
   {	
@@ -119,7 +119,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 5,
-  icon = "__canning-and-freezing__/graphics/icons/deconservate-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/uncanned-bioflux-processing.png",
   icon_size = 64,
   ingredients =
   {
@@ -143,7 +143,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 5,
-  icon = "__canning-and-freezing__/graphics/icons/canned-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-agricultural-science-pack-processing.png",
   icon_size = 64,
   ingredients =
   {	
@@ -164,7 +164,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 5,
-  icon = "__canning-and-freezing__/graphics/icons/deconservate-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/uncanned-agricultural-science-pack-processing.png",
   icon_size = 64,
   ingredients =
   {
@@ -186,7 +186,7 @@ data:extend({
   category = "organic-or-chemistry",
   enabled = false,
   energy_required = 5,
-  icon = "__canning-and-freezing__/graphics/icons/deconservate-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/fluid/canning-fluid.png",
   icon_size = 64,
   ingredients =
   {
@@ -218,7 +218,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__canning-and-freezing__/graphics/icons/canned-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-bioflux.png",
   icon_size = 64,
   ingredients =
   {	
@@ -239,7 +239,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__canning-and-freezing__/graphics/icons/deconservate-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-bioflux.png",
   icon_size = 64,
   ingredients =
   {
@@ -262,7 +262,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__canning-and-freezing__/graphics/icons/canned-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-bioflux.png",
   icon_size = 64,
   ingredients =
   {	
@@ -283,7 +283,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__canning-and-freezing__/graphics/icons/deconservate-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-bioflux.png",
   icon_size = 64,
   ingredients =
   {
@@ -307,7 +307,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__canning-and-freezing__/graphics/icons/canned-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-bioflux.png",
   icon_size = 64,
   ingredients =
   {	
@@ -328,7 +328,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__canning-and-freezing__/graphics/icons/deconservate-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-bioflux.png",
   icon_size = 64,
   ingredients =
   {
@@ -350,7 +350,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__canning-and-freezing__/graphics/icons/canned-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-bioflux.png",
   icon_size = 64,
   ingredients =
   {	
@@ -371,7 +371,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__canning-and-freezing__/graphics/icons/deconservate-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-bioflux.png",
   icon_size = 64,
   ingredients =
   {
@@ -394,7 +394,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__canning-and-freezing__/graphics/icons/canned-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-bioflux.png",
   icon_size = 64,
   ingredients =
   {	
@@ -416,7 +416,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__canning-and-freezing__/graphics/icons/deconservate-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-bioflux.png",
   icon_size = 64,
   ingredients =
   {
@@ -462,7 +462,7 @@ data:extend({
   subgroup = "intermediate-recipe",
   enabled = false,
   energy_required = 0.5,
-  icon = "__canning-and-freezing__/graphics/icons/deconservate-yumako.png",
+  icon = "__canning-and-freezing__/graphics/icons/canned-bioflux.png",
   icon_size = 64,
   ingredients =
   {
