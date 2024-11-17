@@ -6,6 +6,7 @@ data:extend({
   icon_size = 64,
   stack_size = 10,
   spoil_ticks = 180 * minute,
+  weight = 1 / 100 * tons,
   spoil_result = "spoilage",
 },
 {
@@ -15,6 +16,7 @@ data:extend({
   icon_size = 64,
   stack_size = 10,
   spoil_ticks = 180 * minute,
+  weight = 1 / 100 * tons,
   spoil_result = "spoilage",
 },
 {
@@ -24,6 +26,7 @@ data:extend({
   icon_size = 64,
   stack_size = 10,
   spoil_ticks = 240 * minute,
+  weight = 1 / 100 * tons,
   spoil_result = "spoilage",
 },
 {
@@ -33,6 +36,7 @@ data:extend({
   icon_size = 64,
   stack_size = 10,
   spoil_ticks = 240 * minute,
+  weight = 1 / 100 * tons,
   spoil_result = "spoilage",
 },
 {
@@ -42,6 +46,7 @@ data:extend({
   icon_size = 64,
   stack_size = 25,
   spoil_ticks = 60 * 10000 * minute,
+  weight = 1 / 500 * tons,
   spoil_result = "spoilage",
 },
 {
@@ -51,6 +56,7 @@ data:extend({
   icon_size = 64,
   stack_size = 25,
   spoil_ticks = 60 * 10000 * minute,
+  weight = 1 / 500 * tons,
   spoil_result = "spoilage",
 },
 {
@@ -60,6 +66,7 @@ data:extend({
   icon_size = 64,
   stack_size = 50,
   spoil_ticks = 60 * 10000 * minute,
+  weight = 1 / 500 * tons,
   spoil_result = "spoilage",
 },
 {
@@ -69,6 +76,7 @@ data:extend({
   icon_size = 64,
   stack_size = 100,
   spoil_ticks = 60 * 10000 * minute,
+  weight = 1 / 500 * tons,
   spoil_result = "spoilage",
 }
 ,
@@ -79,6 +87,7 @@ data:extend({
   icon_size = 64,
   stack_size = 100,
   spoil_ticks = 60 * 10000 * minute,
+  weight = 1 / 500 * tons,
   spoil_result = "spoilage",
 }
 ,
@@ -89,6 +98,7 @@ data:extend({
   icon_size = 64,
   stack_size = 100,
   spoil_ticks = 60 * 10000 * minute,
+  weight = 1 / 500 * tons,
   spoil_result = "spoilage",
 }
 })

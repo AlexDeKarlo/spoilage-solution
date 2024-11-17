@@ -9,14 +9,14 @@ data:extend({
   category = "crafting-with-fluid",
   subgroup = "intermediate-recipe",
   enabled = false,
-  energy_required = 2.5,
+  energy_required = 1.25,
   icon = "__canning-and-freezing__/graphics/icons/canned-yumako-processing.png",
   icon_size = 64,
   ingredients =
   {	
-    {type="item", name="yumako", amount=50},
+    {type="item", name="yumako", amount=5},
     {type="item", name="barrel", amount=1},
-	{type="fluid", name="canning_fluid", amount=10},
+	{type="fluid", name="canning_fluid", amount=5},
   },
   results=
   {
@@ -30,7 +30,7 @@ data:extend({
   category = "advanced-crafting",
   subgroup = "intermediate-recipe",
   enabled = false,
-  energy_required = 2.5,
+  energy_required = 1.25,
   icon = "__canning-and-freezing__/graphics/icons/uncanned-yumako-processing.png",
   icon_size = 64,
   ingredients =
@@ -39,7 +39,7 @@ data:extend({
   },
   results=
   {
-    {type="item", name="yumako", amount=50},
+    {type="item", name="yumako", amount=5},
 	{type="item", name="barrel", amount=1},
   },
   allow_decomposition = false
@@ -53,14 +53,14 @@ data:extend({
   category = "crafting-with-fluid",
   subgroup = "intermediate-recipe",
   enabled = false,
-  energy_required = 2.5,
+  energy_required = 1.25,
   icon = "__canning-and-freezing__/graphics/icons/canned-jellynut-processing.png",
   icon_size = 64,
   ingredients =
   {	
-    {type="item", name="jellynut", amount=50},
+    {type="item", name="jellynut", amount=5},
     {type="item", name="barrel", amount=1},
-	{type="fluid", name="canning_fluid", amount=10},
+	{type="fluid", name="canning_fluid", amount=5},
   },
   results=
   {
@@ -74,7 +74,7 @@ data:extend({
   category = "advanced-crafting",
   subgroup = "intermediate-recipe",
   enabled = false,
-  energy_required = 2.5,
+  energy_required = 1.25,
   icon = "__canning-and-freezing__/graphics/icons/uncanned-jellynut-processing.png",
   icon_size = 64,
   ingredients =
@@ -83,7 +83,7 @@ data:extend({
   },
   results=
   {
-    {type="item", name="jellynut", amount=50},
+    {type="item", name="jellynut", amount=5},
 	{type="item", name="barrel", amount=1},
   },
   allow_decomposition = false
@@ -97,14 +97,14 @@ data:extend({
   category = "crafting-with-fluid",
   subgroup = "intermediate-recipe",
   enabled = false,
-  energy_required = 5,
+  energy_required = 2.5,
   icon = "__canning-and-freezing__/graphics/icons/canned-bioflux-processing.png",
   icon_size = 64,
   ingredients =
   {	
-    {type="item", name="bioflux", amount=25},
+    {type="item", name="bioflux", amount=5},
     {type="item", name="barrel", amount=1},
-	{type="fluid", name="canning_fluid", amount=10},
+	{type="fluid", name="canning_fluid", amount=5},
   },
   results=
   {
@@ -118,7 +118,7 @@ data:extend({
   category = "advanced-crafting",
   subgroup = "intermediate-recipe",
   enabled = false,
-  energy_required = 5,
+  energy_required = 2.5,
   icon = "__canning-and-freezing__/graphics/icons/uncanned-bioflux-processing.png",
   icon_size = 64,
   ingredients =
@@ -127,7 +127,7 @@ data:extend({
   },
   results=
   {
-    {type="item", name="bioflux", amount=25},
+    {type="item", name="bioflux", amount=5},
 	{type="item", name="barrel", amount=1},
   },
   allow_decomposition = false
@@ -147,9 +147,9 @@ data:extend({
   icon_size = 64,
   ingredients =
   {	
-    {type="item", name="agricultural-science-pack", amount=10},
+    {type="item", name="agricultural-science-pack", amount=5},
     {type="item", name="barrel", amount=1},
-	{type="fluid", name="canning_fluid", amount=10},
+	{type="fluid", name="canning_fluid", amount=5},
   },
   results=
   {
@@ -172,7 +172,7 @@ data:extend({
   },
   results=
   {
-    {type="item", name="agricultural-science-pack", amount=10},
+    {type="item", name="agricultural-science-pack", amount=5},
 	{type="item", name="barrel", amount=1},
   },
   allow_decomposition = false
