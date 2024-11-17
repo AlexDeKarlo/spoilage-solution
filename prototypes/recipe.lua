@@ -22,7 +22,8 @@ data:extend({
   {
   {type="item", name="canned-yumako", amount=1},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 {
   type = "recipe",
@@ -42,7 +43,8 @@ data:extend({
     {type="item", name="yumako", amount=5},
 	{type="item", name="barrel", amount=1},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 --yumako
 
@@ -66,7 +68,8 @@ data:extend({
   {
   {type="item", name="canned-jellynut", amount=1},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 {
   type = "recipe",
@@ -86,7 +89,8 @@ data:extend({
     {type="item", name="jellynut", amount=5},
 	{type="item", name="barrel", amount=1},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 --jellynut
 
@@ -110,7 +114,8 @@ data:extend({
   {
   {type="item", name="canned-bioflux", amount=1},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 {
   type = "recipe",
@@ -130,7 +135,8 @@ data:extend({
     {type="item", name="bioflux", amount=5},
 	{type="item", name="barrel", amount=1},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 
 --bioflux
@@ -155,7 +161,8 @@ data:extend({
   {
   {type="item", name="canned-agricultural-science-pack", amount=1},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 {
   type = "recipe",
@@ -175,7 +182,8 @@ data:extend({
     {type="item", name="agricultural-science-pack", amount=5},
 	{type="item", name="barrel", amount=1},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 
 --agricultural-science-pack
@@ -222,6 +230,7 @@ data:extend({
   icon_size = 64,
   ingredients =
   {	
+	{type="fluid", name="canning_fluid", amount=5},
     {type="item", name="yumako", amount=1},
 	{type="fluid", name="fluoroketone-cold", amount=10},
   },
@@ -230,7 +239,8 @@ data:extend({
 	{type="item", name="frozen-yumako", amount=1},
 	{type="fluid", name="fluoroketone-hot", amount=10},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 {
   type = "recipe",
@@ -249,7 +259,8 @@ data:extend({
   {
     {type="item", name="yumako", amount=1},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 --yumako
 
@@ -266,6 +277,7 @@ data:extend({
   icon_size = 64,
   ingredients =
   {	
+	{type="fluid", name="canning_fluid", amount=5},
     {type="item", name="jellynut", amount=1},
 	{type="fluid", name="fluoroketone-cold", amount=10},
   },
@@ -274,7 +286,8 @@ data:extend({
 	{type="item", name="frozen-jellynut", amount=1},
 	{type="fluid", name="fluoroketone-hot", amount=10},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 {
   type = "recipe",
@@ -293,7 +306,8 @@ data:extend({
   {
     {type="item", name="jellynut", amount=1},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 --jellynut
 
@@ -311,6 +325,7 @@ data:extend({
   icon_size = 64,
   ingredients =
   {	
+	{type="fluid", name="canning_fluid", amount=5},
     {type="item", name="bioflux", amount=1},
 	{type="fluid", name="fluoroketone-cold", amount=10},
   },
@@ -319,7 +334,8 @@ data:extend({
 	{type="item", name="frozen-bioflux", amount=1},
 	{type="fluid", name="fluoroketone-hot", amount=10},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 {
   type = "recipe",
@@ -338,7 +354,8 @@ data:extend({
   {
     {type="item", name="bioflux", amount=1},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 --bioflux
 
@@ -354,6 +371,7 @@ data:extend({
   icon_size = 64,
   ingredients =
   {	
+	{type="fluid", name="canning_fluid", amount=5},
     {type="item", name="agricultural-science-pack", amount=1},
 	{type="fluid", name="fluoroketone-cold", amount=10},
   },
@@ -362,7 +380,8 @@ data:extend({
 	{type="item", name="frozen-agricultural-science-pack", amount=1},
 	{type="fluid", name="fluoroketone-hot", amount=10},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 {
   type = "recipe",
@@ -381,7 +400,8 @@ data:extend({
   {
     {type="item", name="agricultural-science-pack", amount=1},
   },
-  allow_decomposition = false
+  allow_decomposition = false,
+  allow_quality = false
 },
 --agricultural-science-pack
 
@@ -398,6 +418,7 @@ data:extend({
   icon_size = 64,
   ingredients =
   {	
+	{type="fluid", name="canning_fluid", amount=5},
     {type="item", name="biter-egg", amount=1},
 	{type="fluid", name="fluoroketone-cold", amount=10},
   },
@@ -444,6 +465,7 @@ data:extend({
   icon_size = 64,
   ingredients =
   {	
+    {type="fluid", name="canning_fluid", amount=5},
     {type="item", name="pentapod-egg", amount=1},
 	{type="fluid", name="fluoroketone-cold", amount=10},
   },
