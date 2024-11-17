@@ -2,7 +2,7 @@ data:extend({
 {
     type = "technology",
     name = "canning",
-    icon = "__canning-and-freezing__/graphics/icons/canned-yumako.png",
+    icon = "__spoilage-solution__/graphics/icons/canned-yumako.png",
     icon_size = 64,
     effects =
     {
@@ -54,7 +54,7 @@ data:extend({
   {
     type = "technology",
     name = "freezing",
-    icon = "__canning-and-freezing__/graphics/icons/canned-yumako.png",
+    icon = "__spoilage-solution__/graphics/icons/canned-yumako.png",
     icon_size = 64,
     effects =
     {
