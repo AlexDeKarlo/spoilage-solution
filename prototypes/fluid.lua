@@ -1,7 +1,7 @@
 data:extend({
   {
     type = "fluid",
-    name = "fluid-preservative",
+    name = "canning_fluid",
     subgroup = "fluid",
     default_temperature = 15,
     base_color = {0.41, 0.34, 0.6},

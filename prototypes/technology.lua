@@ -40,7 +40,7 @@ data:extend({
       },
 	  {
         type = "unlock-recipe",
-        recipe = "produce_fluid-preservative"
+        recipe = "produce_canning_fluid"
       },
     },
     prerequisites = {"biochamber"},
@@ -49,5 +49,84 @@ data:extend({
       type = "craft-item",
       item = "biochamber"
     }
+  },
+  
+  {
+    type = "technology",
+    name = "freezing",
+    icon = "__canning-and-freezing__/graphics/icons/canned-yumako.png",
+    icon_size = 64,
+    effects =
+    {
+      {
+        type = "unlock-recipe",
+        recipe = "freeze-yumako"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "unfreeze-yumako"
+      },
+	  
+	  {
+        type = "unlock-recipe",
+        recipe = "freeze-jellynut"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "unfreeze-jellynut"
+      },
+	  
+	  {
+        type = "unlock-recipe",
+        recipe = "freeze-bioflux"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "unfreeze-bioflux"
+      },
+	  
+	  {
+        type = "unlock-recipe",
+        recipe = "freeze-agricultural-science-pack"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "unfreeze-agricultural-science-pack"
+      },
+	  
+	  {
+        type = "unlock-recipe",
+        recipe = "freeze-biter-egg"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "unfreeze-biter-egg"
+      },
+	  
+	  {
+        type = "unlock-recipe",
+        recipe = "freeze-pentapod-egg"
+      },
+	  {
+        type = "unlock-recipe",
+        recipe = "unfreeze-pentapod-egg"
+      },	  
+    },
+    prerequisites = {"cryogenic-science-pack"},
+	unit =
+    {
+      count = 500,
+      ingredients =
+      {
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1},
+        {"chemical-science-pack", 1},
+        {"space-science-pack", 1},
+        {"agricultural-science-pack", 1},
+        {"cryogenic-science-pack", 1}
+      },
+      time = 60
+    }
+   
   },
 })
