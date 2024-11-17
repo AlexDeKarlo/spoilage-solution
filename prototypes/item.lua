@@ -42,7 +42,7 @@ data:extend({
 {
   type = "item",
   name = "frozen-yumako",
-  icon = "__spoilage-solution__/graphics/icons/canned-yumako.png",
+  icon = "__spoilage-solution__/graphics/icons/frozen-yumako.png",
   icon_size = 64,
   stack_size = 25,
   spoil_ticks = 60 * 10000 * minute,
@@ -52,7 +52,7 @@ data:extend({
 {
   type = "item",
   name = "frozen-jellynut",
-  icon = "__spoilage-solution__/graphics/icons/canned-jellynut.png", 
+  icon = "__spoilage-solution__/graphics/icons/frozen-jellynut.png", 
   icon_size = 64,
   stack_size = 25,
   spoil_ticks = 60 * 10000 * minute,
@@ -62,7 +62,7 @@ data:extend({
 {
   type = "item",
   name = "frozen-bioflux",
-  icon = "__spoilage-solution__/graphics/icons/canned-jellynut.png",
+  icon = "__spoilage-solution__/graphics/icons/frozen-bioflux.png",
   icon_size = 64,
   stack_size = 50,
   spoil_ticks = 60 * 10000 * minute,
@@ -83,7 +83,7 @@ data:extend({
 {
   type = "item",
   name = "frozen-biter-egg",
-  icon = "__spoilage-solution__/graphics/icons/canned-agricultural-science-pack.png",
+  icon = "__spoilage-solution__/graphics/icons/frozen-bitter-egg.png",
   icon_size = 64,
   stack_size = 100,
   spoil_ticks = 60 * 10000 * minute,
@@ -94,7 +94,7 @@ data:extend({
 {
   type = "item",
   name = "frozen-pentapod-egg",
-  icon = "__spoilage-solution__/graphics/icons/canned-agricultural-science-pack.png",
+  icon = "__spoilage-solution__/graphics/icons/frozen-pentapod-egg.png",
   icon_size = 64,
   stack_size = 100,
   spoil_ticks = 60 * 10000 * minute,
